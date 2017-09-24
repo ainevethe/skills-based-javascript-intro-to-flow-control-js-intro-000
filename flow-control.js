@@ -49,7 +49,7 @@ function switchAge(age) {
       case: <=12
       return "You are a kid";
       case: >19
-      return: "You are a grownup"
+      return "You are a grownup"
     default:
       return "You have an age"
   }
